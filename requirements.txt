@@ -1,4 +1,4 @@
 streamlit
 groq
-setence_transformers
+sentence_transformers
 sklearn
